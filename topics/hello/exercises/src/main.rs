@@ -3,6 +3,10 @@
 // Attributes - metadata for the compiler
 #![allow(unused)]
 
+fn main() {
+    println!("hello rust");
+}
+
 // main() is the entry point of Rust program
 
 // println! is a macro that prints text to the console.
